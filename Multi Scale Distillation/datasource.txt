@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/sautkin/imagenet1k0
+https://www.kaggle.com/datasets/sautkin/imagenet1kvalid
